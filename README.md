@@ -1,5 +1,7 @@
 # Интернет магазин
 
+Data Flow: MySQL - NodeJS - RestAPI (json) - React (to components) 
+
 Используемые технологии:
 1. React
 2. NodeJS
